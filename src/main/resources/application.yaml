@@ -3,4 +3,4 @@ spring:
     name: msvc-api-gateway
   config:
     import:
-      optional:configserver:http://localhost:8888
+      optional:configserver:https://e-commerce-backend-config.onrender.com
